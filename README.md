@@ -33,7 +33,7 @@ div {
 
 <br>
 <h3 style="color:green;">Additional options</h3>
-<p style='color:black;">Listening to music is probably the thing that calms me down the fastest.To me,theres nothing better than the feeling a beats going through my ears and sending sensations of calmness throughout my body.</p>
+<p style="color:black;">Listening to music is probably the thing that calms me down the fastest.To me,theres nothing better than the feeling a beats going through my ears and sending sensations of calmness throughout my body.</p>
 
 
 <!-- SCM Music Player http://scmplayer.net -->
